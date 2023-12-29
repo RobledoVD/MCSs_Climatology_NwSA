@@ -9,8 +9,11 @@ Here you can find a set of codes that will help you to process the data provided
 The MCS_Climatology_NwSA file contains all convective systems tracked from 2001 to 2021. Below is a brief description of its columns:
 
 track_id: Track identifier. Each track contains a list of polygons representing the convective system at different time steps.
+
 polygon_id: Identifier of the polygon that represents a convective system at a given time and location.
+
 time: Date and time of detection of the convective system.
+
 geometry: Geometry (and location) of the polygon representing the convective system at a given time step.
 area_tb: Area in km2.
 centroid: Location of the centroid of the convective system
