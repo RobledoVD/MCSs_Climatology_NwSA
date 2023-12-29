@@ -26,7 +26,7 @@ The MCS_Climatology_NwSA file contains all convective systems tracked from 2001 
 
 **- max_p:** Max value of precipitation of the convecive system.
 
-**- intersection_percentage:** percentage of interception between a convective system at time i and the same convective system at time i+1. 
+**- intersection_percentage:** Percentage of interception between a convective system at time i and the same convective system at time i+1. 
 
 **- distance:** Distance between consecutive convective systems.
 
@@ -41,4 +41,5 @@ The MCS_Climatology_NwSA file contains all convective systems tracked from 2001 
 
 ## Cite as
 
-Robledo Vanessa, Henao Juan. J, Mejía John F, Ramírez-Cardona Álvaro, Hernández, K. Santiago, Gómez-Ríos Sebastián, &  Rendón Angela M. (2022). Final database used in JGR-Atmospheres manuscript ID [Data set]. In Climatological Characteristics of Mesoscale Convective Systems in Northwestern South America Using a Persistence Technique.(v1.0). Zenodo. https
+Robledo Vanessa, Henao Juan. J, Mejía John F, Ramírez-Cardona Álvaro, Hernández, K. Santiago, Gómez-Ríos Sebastián, &  Rendón Angela M. (2022). Final database used in JGR-Atmospheres manuscript ID [Data set]. In Climatological Characteristics of Mesoscale Convective Systems in Northwestern South America Using a Persistence Technique.(v1.0). Zenodo.
+
