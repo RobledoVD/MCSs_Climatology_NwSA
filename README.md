@@ -15,15 +15,26 @@ polygon_id: Identifier of the polygon that represents a convective system at a g
 time: Date and time of detection of the convective system.
 
 geometry: Geometry (and location) of the polygon representing the convective system at a given time step.
+
 area_tb: Area in km2.
-centroid: Location of the centroid of the convective system
+
+centroid: Location of the centroid of the convective system.
+
 mean_tb: Mean brightness temperature of the convective system.
+
 mean_p: Mean precipitation rates of the convective system.
+
 max_p: Max value of precipitation of the convecive system.
+
 intersection_percentage: percentage of interception between a convective system at time i and the same convective system at time i+1. 
+
 distance: Distance between consecutive convective systems.
+
 direction: Direction of propagation of the convective system.
+
 total_duration: Duration of the entire track in hours.
+
 total_distance: Total distance  of the entire track in km.
+
 mean_velocity: mean velocity of the entire track in km/h.
 
