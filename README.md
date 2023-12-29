@@ -26,7 +26,7 @@ The MCS_Climatology_NwSA file contains all convective systems tracked from 2001 
 
 **- max_p:** Max value of precipitation of the convecive system.
 
-**- intersection_percentage:** percentage of interception between a convective system at time i and the same convective system at time i+1. 
+**- intersection_percentage:** Percentage of interception between a convective system at time i and the same convective system at time i+1. 
 
 **- distance:** Distance between consecutive convective systems.
 
@@ -36,4 +36,4 @@ The MCS_Climatology_NwSA file contains all convective systems tracked from 2001 
 
 **- total_distance:** Total distance  of the entire track in km.
 
-**- mean_velocity:** mean velocity of the entire track in km/h.
+**- mean_velocity:** Mean velocity of the entire track in km/h.
