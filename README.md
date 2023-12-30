@@ -3,7 +3,7 @@
 This repository contains a 20-year database of mesoscale convective systems tracked over northwestern South America using the new ATRACKCS algorithm. If you want to learn more about ATRACKCS go to the repository [ATRACKCS Repository](https:**//github.com/alramirezca/ATRACKCS)
 
 
-Here you can find a set of codes that will help you to process the data provided, the MCS_climatology.csv file that contains the detailed list of MCS and other NetCDF files already processed by the authors that will help you to do different types of analysis over the region.
+Here you can find the MCS_climatology.csv file that contains the detailed list of MCS and other NetCDF files already processed by the authors that will help you to do different types of analysis over the region.
 
 ## General description of MCS database
 The MCS_Climatology_NwSA file contains all convective systems tracked from 2001 to 2021. Below is a brief description of its columns:
@@ -41,5 +41,5 @@ The MCS_Climatology_NwSA file contains all convective systems tracked from 2001 
 
 ## Cite as
 
-Robledo Vanessa, Henao Juan. J, Mejía John F, Ramírez-Cardona Álvaro, Hernández, K. Santiago, Gómez-Ríos Sebastián, &  Rendón Angela M. (2022). Final database used in JGR-Atmospheres manuscript ID [Data set]. In Climatological Characteristics of Mesoscale Convective Systems in Northwestern South America Using a Persistence Technique.(v1.0). Zenodo.
+Robledo Vanessa, Henao Juan. J, Mejía John F, Ramírez-Cardona Álvaro, Hernández, K. Santiago, Gómez-Ríos Sebastián, &  Rendón Angela M. (2024). Final database used in JGR-Atmospheres manuscript ID [Data set]. In Climatological Characteristics of Mesoscale Convective Systems in Northwestern South America Using a Persistence Technique.(v1.0). Zenodo.
 
