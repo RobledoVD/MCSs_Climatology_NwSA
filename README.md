@@ -1,5 +1,6 @@
 # MCSs_Climatology_NwSA
 
+Final processed data used to generate all figures in the submitted manuscript (2024JD041159) to Journal of Geophysical Research - Atmospheres.
 This repository contains a 20-year database of mesoscale convective systems tracked over northwestern South America using the new ATRACKCS algorithm. If you want to learn more about ATRACKCS go to the repository [ATRACKCS Repository](https:**//github.com/alramirezca/ATRACKCS)
 
 
