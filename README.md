@@ -41,5 +41,5 @@ The MCS_Climatology_NwSA file contains all convective systems tracked from 2001 
 
 ## Cite as
 
-Robledo Vanessa, Henao Juan. J, Mejía John F, Ramírez-Cardona Álvaro, Hernández, K. Santiago, Gómez-Ríos Sebastián, &  Rendón Angela M. (2024). Final database used in JGR-Atmospheres manuscript ID [Data set]. In Climatological Characteristics of Mesoscale Convective Systems in Northwestern South America Using a Persistence Technique.(v1.0). Zenodo.
+Robledo Vanessa, Henao Juan. J, Mejía John F, Ramírez-Cardona Álvaro, Hernández, K. Santiago, Gómez-Ríos Sebastián, &  Rendón Angela M. (2024). Final database used in JGR-Atmospheres manuscript 2024JD041159 [Data set]. In Climatological Characteristics of Mesoscale Convective Systems in Northwestern South America Using a Persistence Technique.(v1.0). Zenodo. https://doi.org/10.5281/zenodo.10443552. 
 
