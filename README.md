@@ -45,5 +45,5 @@ This research was funded by the Colombian Ministry of Science, Technology and In
 
 ## Cite as
 
-Robledo Vanessa, Henao Juan. J, Mejía John F, Ramírez-Cardona Álvaro, Hernández, K. Santiago, Gómez-Ríos Sebastián, &  Rendón Angela M. (2024). Final database used in JGR-Atmospheres manuscript 2024JD041159 [Data set]. In Climatological Characteristics of Mesoscale Convective Systems in Northwestern South America Using a Persistence Technique.(v1.0). Zenodo. https://doi.org/10.5281/zenodo.10443552. 
+Robledo Vanessa, Henao Juan. J, Mejía John F, Ramírez-Cardona Álvaro, Hernández, K. Santiago, Gómez-Ríos Sebastián, &  Rendón Angela M. (2024). Final database used in JGR-Atmospheres manuscript 2024JD041159 [Data set]. In Climatological Tracking and Lifecycle Characteristics of Mesoscale Convective Systems in Northwestern South America.(v1.0). Zenodo. https://doi.org/10.5281/zenodo.10443552. 
 
