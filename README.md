@@ -1,7 +1,6 @@
 # MCSs_Climatology_NwSA
 
-Final processed data used to generate all figures in the accepted manuscript (2024JD041159) of Journal of Geophysical Research - Atmospheres.
-This repository contains a 21-year database of mesoscale convective systems tracked over northwestern South America using the new ATRACKCS algorithm. If you want to learn more about ATRACKCS go to the repository [ATRACKCS Repository](https://github.com/alramirezca/ATRACKCS)
+This repository contains a 21-year database of mesoscale convective systems tracked over northwestern South America using the new ATRACKCS algorithm. If you want to learn more about ATRACKCS go to the repository [ATRACKCS Repository](https://github.com/alramirezca/ATRACKCS). The data in this repository was used to generate all figures and analyses in the accepted manuscript (2024JD041159) of Journal of Geophysical Research - Atmospheres.
 
 
 Here you can find the MCS_climatology.csv file which contains the detailed list of MCS and other NetCDF files already processed by the authors that will help you to do different types of analysis over the region.
@@ -41,7 +40,7 @@ The MCS_Climatology_NwSA file contains all convective systems tracked from 2001 
 
 ## Acknowledgements
 
-This research was funded by the Colombian Ministry of Science, Technology and Innovation (MINCIENCIAS) through the project: “Implementación de un sistema de investigación y pronóstico meteorológico de corto plazo con el modelo WRF, para apoyo a sistemas de comando y control de la Fuerza Aérea Colombiana” (code 1115-852-70955) with funds from “Patrimonio Autónomo Fondo Nacional de Financiamiento para la Ciencia, la Tecnología y la Innovación, Fondo Francisco José de Caldas”.
+This research was funded by the University of Iowa and the Colombian Ministry of Science, Technology and Innovation (MINCIENCIAS) through the project: “Implementación de un sistema de investigación y pronóstico meteorológico de corto plazo con el modelo WRF, para apoyo a sistemas de comando y control de la Fuerza Aérea Colombiana” (code 1115-852-70955) with funds from “Patrimonio Autónomo Fondo Nacional de Financiamiento para la Ciencia, la Tecnología y la Innovación, Fondo Francisco José de Caldas”.
 
 ## Cite as
 
